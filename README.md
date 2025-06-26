@@ -3,7 +3,7 @@
 Visual notes that feel like a Twitter thread  
 No paywall. No email. No upsell. Just clean technical visuals for devs.
 
-[![Star Sketech](https://img.shields.io/badge/Sketech-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/SketechWorld/sketech/stargazers)
+[![⭐ Star Sketech](https://img.shields.io/badge/Star%20Sketech-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/SketechWorld/sketech)
 [![Follow Sketech](https://img.shields.io/badge/Sketech-000000?logo=x&logoColor=white&style=for-the-badge)](https://x.com/SketechWorld)
 [![LinkedIn Sketech](https://img.shields.io/badge/Sketech_on_LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/company/sketechworld)
 
